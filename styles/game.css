@@ -1,5 +1,5 @@
 body {
-    background: rgba(0, 0, 0, 0.7) url('/imagem/fundo.jpg');
+    background: rgba(0, 0, 0, 0.7) url('../imagem/fundo.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@ header {
 }
 
 .back {
-    background-image: url('/imagem/capa.jpg');
+    background-image: url('../imagem/capa.jpg');
     backface-visibility: hidden;
 }
 
